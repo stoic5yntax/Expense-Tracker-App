@@ -30,13 +30,5 @@ The **Expense Tracker App** is a responsive web application built with **HTML, C
 
 ---
 
-## File Structure
-Expense-Tracker/
-│
-├── index.html        # Main HTML file
-├── style.css         # Styles and responsive layout
-├── script.js         # App logic
-└── README.md         # Project documentation
-
 ## Demo
 <img width="1894" height="846" alt="image" src="https://github.com/user-attachments/assets/da86d7cf-e604-4b1d-ae61-bf63dfe85786" />
